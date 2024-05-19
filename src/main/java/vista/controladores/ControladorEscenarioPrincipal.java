@@ -24,12 +24,4 @@ public class ControladorEscenarioPrincipal {
 //        // TODO Aquí se debe cargar la tabla
 //    }
 
-    @FXML
-    private Label lblHolaMundo;
-
-    @FXML
-    void mostrarHolaMundo(ActionEvent event) {
-        lblHolaMundo.setText("Hola Mundo");
-    }
-
 }

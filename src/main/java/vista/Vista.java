@@ -42,7 +42,7 @@ public class Vista extends Application {
 //        controlador.setListaPersonas(controladorMVC.getListaPersonas());
 
         stage.setScene(new Scene(root));
-        stage.setTitle("Hola Mundo");
+        stage.setTitle("Administrador de personas");
         stage.show();
 
 

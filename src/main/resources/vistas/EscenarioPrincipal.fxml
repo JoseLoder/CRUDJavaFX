@@ -7,7 +7,7 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="328.0" prefWidth="606.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="vista.controladores.ControladorEscenarioPrincipal">
+<AnchorPane prefHeight="328.0" prefWidth="606.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <TextField layoutX="49.0" layoutY="66.0" prefHeight="26.0" prefWidth="106.0" />
       <Label layoutX="49.0" layoutY="39.0" prefHeight="26.0" prefWidth="106.0" text="Nombre:" />

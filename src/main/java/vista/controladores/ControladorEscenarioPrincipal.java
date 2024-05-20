@@ -14,7 +14,7 @@ public class ControladorEscenarioPrincipal {
 //    // Declaramos el controlador
 //    private Controlador controladorMVC;
 //
-//    // Setter para el controlador
+//    // Setter para el controlador que nos va a pasar la vista
 //    public void setControladorMVC(Controlador controlador) {
 //        this.controladorMVC = controlador;
 //    }
